@@ -1,6 +1,7 @@
 # README
 
 nanoってエディタをしらべておこう
+-> しらべた。
 
 ## subversionとの違い
 

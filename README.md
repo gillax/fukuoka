@@ -1,7 +1,8 @@
-# README
+# fukuoka
 
-nanoってエディタをしらべておこう
--> しらべた。
+GitHub Meetup in Fukuokaでとりあえず作ったDEMO用repogitory.  
+Git練習用として
+
 
 ## subversionとの違い
 
